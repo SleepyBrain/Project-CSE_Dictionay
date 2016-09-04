@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\AndroidStudio\CSE Dictionary\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b7e2dd1caa0b71579a40c1e691f8f4361daf1cc3">
+        <dex dex="F:\AndroidStudio\CSE Dictionary\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_0632c42f1d765b38b20263a4fd115956cb2f05db\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Tomal\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="F:\AndroidStudio\CSE Dictionary\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_6d224141c25421f07d8a6e61528d73a952385c97\classes.dex" />
+    </item>
+    <item
+        jar="F:\AndroidStudio\CSE Dictionary\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8ddc51b0c1a93d2793bc85e37fc206fd23cff8a4">
+        <dex dex="F:\AndroidStudio\CSE Dictionary\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_9de4152ad0cd79a82721dc1dadd009df53ebf30d\classes.dex" />
+    </item>
+
+</items>

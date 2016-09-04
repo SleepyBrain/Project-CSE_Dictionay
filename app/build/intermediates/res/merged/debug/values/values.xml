@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="holo_blue_primary">#fb0a19e9</color>
+    <color name="holo_light_primary_dark">#000000</color>
+    <color name="light_grey">#D8D8D8</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="button_border">15dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">CSE Dictionary</string>
+    <string name="cse_dictionary">CSE Dictionary</string>
+    <string name="hello_world">hello </string>
+    <string name="open_dictionary">Open Dictionary</string>
+    <string name="please_enter_your_name">Please Enter Your Name</string>
+    <string name="title_activity_dictionary_list">DictionaryListActivity</string>
+    <string name="title_activity_word_definition_detail">WordDefinitionDetailActivity</string>
+    <style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="Custom" parent="android:Theme.Holo.Light">
+        <item name="android:colorBackground">@android:color/holo_blue_dark</item>
+        <item name="android:windowBackground">@drawable/screen_background_selector_light</item>
+    </style>
+</resources>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\AndroidStudio\\CSE Dictionary\\app\\build\\intermediates\\res\\merged\\debug\\raw\\dictionary",
+        "source": "F:\\AndroidStudio\\CSE Dictionary\\app\\src\\main\\res\\raw\\dictionary"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\CSE Dictionary\\app\\build\\intermediates\\res\\merged\\debug\\raw\\glossary",
+        "source": "F:\\AndroidStudio\\CSE Dictionary\\app\\src\\main\\res\\raw\\glossary"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\CSE Dictionary\\app\\build\\intermediates\\res\\merged\\debug\\raw\\applet",
+        "source": "F:\\AndroidStudio\\CSE Dictionary\\app\\src\\main\\res\\raw\\applet"
+    }
+]

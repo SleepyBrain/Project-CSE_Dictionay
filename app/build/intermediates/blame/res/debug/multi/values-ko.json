@@ -1,0 +1,102 @@
+[
+    {
+        "outputFile": "F:\\AndroidStudio\\CSE Dictionary\\app\\build\\intermediates\\res\\merged\\debug\\values-ko\\values-ko.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 52,
+                    "endOffset": 103
+                },
+                "from": {
+                    "file": "F:\\AndroidStudio\\CSE Dictionary\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 95,
+                        "endColumn": 52,
+                        "endOffset": 143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 108,
+                    "endColumn": 38,
+                    "endOffset": 142
+                },
+                "from": {
+                    "file": "F:\\AndroidStudio\\CSE Dictionary\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 38,
+                        "endOffset": 90
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 147,
+                    "endColumn": 46,
+                    "endOffset": 189
+                },
+                "from": {
+                    "file": "F:\\AndroidStudio\\CSE Dictionary\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 148,
+                        "endColumn": 46,
+                        "endOffset": 190
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 194,
+                    "endColumn": 81,
+                    "endOffset": 271
+                },
+                "from": {
+                    "file": "F:\\AndroidStudio\\CSE Dictionary\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 200,
+                        "endColumn": 81,
+                        "endOffset": 277
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 276,
+                    "endColumn": 94,
+                    "endOffset": 366
+                },
+                "from": {
+                    "file": "F:\\AndroidStudio\\CSE Dictionary\\app\\src\\main\\res\\values-ko\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 282,
+                        "endColumn": 94,
+                        "endOffset": 372
+                    }
+                }
+            }
+        ]
+    }
+]

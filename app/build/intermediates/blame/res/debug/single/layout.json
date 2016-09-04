@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\AndroidStudio\\CSE Dictionary\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dictionary_list.xml",
+        "source": "F:\\AndroidStudio\\CSE Dictionary\\app\\src\\main\\res\\layout\\activity_dictionary_list.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\CSE Dictionary\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "F:\\AndroidStudio\\CSE Dictionary\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\CSE Dictionary\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_word_definition_detail.xml",
+        "source": "F:\\AndroidStudio\\CSE Dictionary\\app\\src\\main\\res\\layout\\activity_word_definition_detail.xml"
+    },
+    {
+        "merged": "F:\\AndroidStudio\\CSE Dictionary\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\AndroidStudio\\CSE Dictionary\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
